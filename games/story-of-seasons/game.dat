@@ -1,0 +1,19 @@
+title = "Story of Seasons"
+description = "As the protagonist of the game, you are bored with your regular life. You receive a flyer announcing the need for farmers in Oak Tree Town, and decide to risk it all to move to the small village. There are other farmers living in Oak Tree Town, who will teach you how to run your new farm. Together you will help each other become successful."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000019F500"
+region = "usa"
+release_date = "2015-03-31"
+
+[[testcases]]
+title = "000400000019F500"
+compatibility = "4"
+date = "2017-10-08"
+version = "HEAD-84c344b"
+cpu = "Intel Core i5-2500K"
+gpu = "AMD Radeon HD 7800 Series"
+os = "Windows 10 14393"
+author = "fizzlymike"
